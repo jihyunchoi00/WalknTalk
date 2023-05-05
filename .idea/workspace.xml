@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7e46a2c9-8548-4a04-a7b6-310199efcf72" name="Changes" comment="file">
+      <change afterPath="$PROJECT_DIR$/back/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/.idea/mysite.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/config/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/config/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/config/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/config/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/config/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/mysite.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/CapStone/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/CapStone/.idea/CapStone.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/CapStone/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/CapStone/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/CapStone/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/CapStone/CapStone/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/CapStone/CapStone/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/CapStone/CapStone/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/CapStone/CapStone/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/CapStone/CapStone/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/CapStone/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/CapStone/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/text" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PKFg5yYg38AiPI8M7Df5yw2rm4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\walkntalk\mysite\back\CapStone" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e46a2c9-8548-4a04-a7b6-310199efcf72" name="Changes" comment="" />
+      <created>1683197979528</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683197979528</updated>
+    </task>
+    <task id="LOCAL-00001" summary="file">
+      <created>1683274059526</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683274059526</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="file" />
+    <option name="LAST_COMMIT_MESSAGE" value="file" />
+  </component>
+</project>
