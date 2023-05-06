@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e2b23a1-4237-4140-af9a-b316016fc902" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/back/config/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/back/config/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/back/config/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/back/config/urls.py" afterDir="false" />
-    </list>
+    <list default="true" id="1e2b23a1-4237-4140-af9a-b316016fc902" name="Changes" comment="login" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,6 +49,14 @@
       <option name="presentableId" value="Default" />
       <updated>1683287591125</updated>
     </task>
+    <task id="LOCAL-00001" summary="login">
+      <created>1683379352212</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683379352212</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -65,5 +69,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="login" />
+    <option name="LAST_COMMIT_MESSAGE" value="login" />
   </component>
 </project>
