@@ -1,0 +1,36 @@
+2023-05-30T10:28:22+00:00 CRITICAL Uncaught TypeError: ftp_nlist(): Argument #1 ($ftp) must be of type FTP\Connection, null given in /home/walkntalk/WP/wp-admin/includes/class-wp-filesystem-ftpext.php:427
+Stack trace:
+#0 /home/walkntalk/WP/wp-admin/includes/class-wp-filesystem-ftpext.php(427): ftp_nlist()
+#1 /home/walkntalk/WP/wp-content/plugins/quiz-master-next/php/admin/admin-dashboard.php(542): WP_Filesystem_FTPext->exists()
+#2 /home/walkntalk/WP/wp-content/plugins/quiz-master-next/php/admin/admin-dashboard.php(259): qsm_dashboard_chagelog()
+#3 /home/walkntalk/WP/wp-includes/class-wp-hook.php(308): qsm_generate_dashboard_page()
+#4 /home/walkntalk/WP/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#5 /home/walkntalk/WP/wp-includes/plugin.php(517): WP_Hook->do_action()
+#6 /home/walkntalk/WP/wp-admin/admin.php(259): do_action()
+#7 {main}
+  thrown(/home/walkntalk/WP/wp-admin/includes/class-wp-filesystem-ftpext.php, 줄 427)
+
+2023-05-30T10:30:54+00:00 CRITICAL Uncaught TypeError: ftp_nlist(): Argument #1 ($ftp) must be of type FTP\Connection, null given in /home/walkntalk/WP/wp-admin/includes/class-wp-filesystem-ftpext.php:427
+Stack trace:
+#0 /home/walkntalk/WP/wp-admin/includes/class-wp-filesystem-ftpext.php(427): ftp_nlist()
+#1 /home/walkntalk/WP/wp-content/plugins/quiz-master-next/php/admin/admin-dashboard.php(542): WP_Filesystem_FTPext->exists()
+#2 /home/walkntalk/WP/wp-content/plugins/quiz-master-next/php/admin/admin-dashboard.php(259): qsm_dashboard_chagelog()
+#3 /home/walkntalk/WP/wp-includes/class-wp-hook.php(308): qsm_generate_dashboard_page()
+#4 /home/walkntalk/WP/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#5 /home/walkntalk/WP/wp-includes/plugin.php(517): WP_Hook->do_action()
+#6 /home/walkntalk/WP/wp-admin/admin.php(259): do_action()
+#7 {main}
+  thrown(/home/walkntalk/WP/wp-admin/includes/class-wp-filesystem-ftpext.php, 줄 427)
+
+2023-05-30T10:34:00+00:00 CRITICAL Uncaught TypeError: ftp_nlist(): Argument #1 ($ftp) must be of type FTP\Connection, null given in /home/walkntalk/WP/wp-admin/includes/class-wp-filesystem-ftpext.php:427
+Stack trace:
+#0 /home/walkntalk/WP/wp-admin/includes/class-wp-filesystem-ftpext.php(427): ftp_nlist()
+#1 /home/walkntalk/WP/wp-content/plugins/quiz-master-next/php/admin/admin-dashboard.php(542): WP_Filesystem_FTPext->exists()
+#2 /home/walkntalk/WP/wp-content/plugins/quiz-master-next/php/admin/admin-dashboard.php(259): qsm_dashboard_chagelog()
+#3 /home/walkntalk/WP/wp-includes/class-wp-hook.php(308): qsm_generate_dashboard_page()
+#4 /home/walkntalk/WP/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#5 /home/walkntalk/WP/wp-includes/plugin.php(517): WP_Hook->do_action()
+#6 /home/walkntalk/WP/wp-admin/admin.php(259): do_action()
+#7 {main}
+  thrown(/home/walkntalk/WP/wp-admin/includes/class-wp-filesystem-ftpext.php, 줄 427)
+
