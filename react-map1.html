@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+
+    <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
+    <!--
+      manifest.json provides metadata used when your web app is installed on a
+      user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
+    -->
+   
+ 	
+	<title>React App</title>
+  </head>
+  <body>
+
+	
+	<script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=47b48f51836304f9f2c9094a3915c85a"></script>
+
+
+	
+
+
+
+    <div id="map" style="width:500px;height:500px;">map1
+<script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=47b48f51836304f9f2c9094a3915c85a"></script>
+<script>
+	/* global kakao */
+// import React, { useEffect } from 'react';
+
+var { kakao } = window;
+
+function Kakao() {
+  useEffect(() => {
+    var container = document.getElementById('map');
+    var options = {
+      center: new kakao.maps.LatLng(37.5821, 127.0106), // 지도의 중심좌표
+      level: 3
+    };
+    var map = new kakao.maps.Map(container, options); // 지도 생성
+  }, [])
+
+ // return (
+ //   <div id="map" style={{ width: '500px', height: '500px' }}></div>
+ // )
+}
+	</script> </div>
+
+<div id="map2" style="width:100%;height:100%;">map2
+<script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=47b48f51836304f9f2c9094a3915c85a"></script>
+<script>
+var mapContainer = document.getElementById('map'), // 지도를 표시할 div 
+    mapOption = { 
+        center: new kakao.maps.LatLng(37.5821, 127.0106), // 지도의 중심좌표
+        level: 3 // 지도의 확대 레벨
+    };
+
+var map = new kakao.maps.Map(mapContainer, mapOption);
+
+// 마커가 표시될 위치입니다 
+var markerPosition  = new kakao.maps.LatLng(37.5821, 127.0106); 
+
+// 마커를 생성합니다
+var marker = new kakao.maps.Marker({
+    position: markerPosition
+});
+
+// 마커가 지도 위에 표시되도록 설정합니다
+marker.setMap(map);
+
+var iwContent = '<div style="padding:5px;">한성대학교<br><a href="https://map.kakao.com/link/map/한성대학교,대37.5821, 127.0106" style="color:blue" target="_blank">큰지도보기</a> <a href="https://map.kakao.com/link/to/한성대학교,37.5821, 127.0106" style="color:blue" target="_blank">길찾기</a></div>', // 인포윈도우에 표출될 내용으로 HTML 문자열이나 document element가 가능합니다
+    iwPosition = new kakao.maps.LatLng(33.450701, 126.570667); //인포윈도우 표시 위치입니다
+
+// 인포윈도우를 생성합니다
+var infowindow = new kakao.maps.InfoWindow({
+    position : iwPosition, 
+    content : iwContent 
+});
+  
+// 마커 위에 인포윈도우를 표시합니다. 두번째 파라미터인 marker를 넣어주지 않으면 지도 위에 표시됩니다
+infowindow.open(map, marker); 
+</script>
+</div>
+
+
+
+  </body>
+</html>
