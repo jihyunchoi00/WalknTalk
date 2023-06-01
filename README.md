@@ -144,13 +144,92 @@
 
 ## 5. 실행화면
 ### 1) HOME
-- HOME 화면
-![image](https://github.com/jihyunchoi00/WalknTalk/assets/130173123/e45a6a69-4f7f-4feb-8e53-3f55aef29acb)
+- **HOME 페이지** <br>
+![image](https://github.com/jihyunchoi00/WalknTalk/assets/130173123/43d7dc43-378a-4c4e-a63d-1a6e7b6943f8)
+<br>
 <br>
 <br>
 
-- LOGIN / SIGNUP
-  + LOGIN
+- **LOGIN / SIGNUP**
+  + **LOGIN**
+  + **SIGNUP**<br>
+<br>
+<br>
+
+- **About WalknTalk** <br>
+![image](https://github.com/jihyunchoi00/WalknTalk/assets/130173123/3fc1cb79-cf10-489b-be1c-45cc8a39227b)
+<br>
+<br>
+<br>
+
+- **Bom's Memory** <br>
+![image](https://github.com/jihyunchoi00/WalknTalk/assets/130173123/3e20b64d-3efe-4d1d-8b37-67b5be71f3c8)
+<br>
+<br>
+<br>
+
+- **Contact WalknTalk** <br>
+![image](https://github.com/jihyunchoi00/WalknTalk/assets/130173123/ad4d4ba9-ef84-4964-868a-cef5c59799ad)
+<br>
+<br>
+<br>
+
+### 2) LET'S FIND!
+- **설문 페이지** <br>
+![image](https://github.com/jihyunchoi00/WalknTalk/assets/130173123/46fb54ca-7671-4b9d-8fe2-ed1a74588754) <br><br><br>
+  + **[질문] 파트** <br><br>
+  ![image](https://github.com/jihyunchoi00/WalknTalk/assets/130173123/236cdbc4-df29-4edf-8207-553d1d9b1e2e) <br><br><br>
+  + **[답변] 파트 - #성북공원/#낙산공원으로 구성됨 (아래에는 #성북공원 부분만 넣음)** <br><br>
+  ![image](https://github.com/jihyunchoi00/WalknTalk/assets/130173123/afddeef3-965c-431d-8ba2-0858147fa19a) 
+<br>
+<br>
+<br>
+
+### 3) ROUTE
+- **Route 페이지** <br><br>
+![image](https://github.com/jihyunchoi00/WalknTalk/assets/130173123/eae00c84-f68d-4c5d-b92c-9118f70ded7a) <br><br><br>
+- **Route 상세 페이지** <br><br>
+![image](https://github.com/jihyunchoi00/WalknTalk/assets/130173123/225a3b0b-3b30-42a9-9864-b6d997eb9a69) 
+<br>
+<br>
+<br>
+
+### 4) MAP
+![image](https://github.com/jihyunchoi00/WalknTalk/assets/130173123/6053f418-8b4f-4349-a06e-505b84f5b7e9)
+<br>
+<br>
+<br>
+
+### 5) PLACE
+![image](https://github.com/jihyunchoi00/WalknTalk/assets/130173123/95d871ab-947a-4cb9-869d-341f3dace69c)
+<br>
+<br>
+<br>
+
+### 6) SHOP
+- **SHOP 페이지** <br>
+![image](https://github.com/jihyunchoi00/WalknTalk/assets/130173123/504382ce-6822-480e-953f-e522db858c96) <br><br><br>
+- **SHOP 상세페이지**<br>
+  + **상품** <br><br>
+  ![image](https://github.com/jihyunchoi00/WalknTalk/assets/130173123/1519721e-aa9e-443d-be68-7ddb5fed3c4b) <br><br><br>
+  + **상품설명** <br><br>
+  ![image](https://github.com/jihyunchoi00/WalknTalk/assets/130173123/ef0e0b9a-2b12-40df-b881-2143a54a3e31) <br><br><br>
+  + **상품평** <br><br>
+  ![image](https://github.com/jihyunchoi00/WalknTalk/assets/130173123/209d7bf9-aa8c-4094-9f69-6d7d04ba9b2d) <br><br><br>
+<br>
+<br>
+<br>
+
+### 7) COMMUNITY
+- **Community 페이지** <br>
+
+
+
+
+
+
+
+  
   
 
 
