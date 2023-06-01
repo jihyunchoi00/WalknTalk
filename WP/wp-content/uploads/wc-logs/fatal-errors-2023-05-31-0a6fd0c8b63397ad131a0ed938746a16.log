@@ -1,0 +1,22 @@
+2023-05-31T16:04:01+00:00 CRITICAL Uncaught TypeError: substr(): Argument #1 ($string) must be of type string, array given in /home/walkntalk/WP/wp-includes/general-template.php:2281
+Stack trace:
+#0 /home/walkntalk/WP/wp-includes/general-template.php(2281): substr()
+#1 /home/walkntalk/WP/wp-includes/blocks/calendar.php(63): get_calendar()
+#2 /home/walkntalk/WP/wp-includes/class-wp-block.php(258): render_block_core_calendar()
+#3 /home/walkntalk/WP/wp-includes/blocks.php(1072): WP_Block->render()
+#4 /home/walkntalk/WP/wp-includes/rest-api/endpoints/class-wp-rest-block-renderer-controller.php(190): render_block()
+#5 /home/walkntalk/WP/wp-includes/rest-api/class-wp-rest-server.php(1181): WP_REST_Block_Renderer_Controller->get_item()
+#6 /home/walkntalk/WP/wp-includes/rest-api/class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request()
+#7 /home/walkntalk/WP/wp-includes/rest-api/class-wp-rest-server.php(442): WP_REST_Server->dispatch()
+#8 /home/walkntalk/WP/wp-includes/rest-api.php(410): WP_REST_Server->serve_request()
+#9 /home/walkntalk/WP/wp-includes/class-wp-hook.php(308): rest_api_loaded()
+#10 /home/walkntalk/WP/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#11 /home/walkntalk/WP/wp-includes/plugin.php(565): WP_Hook->do_action()
+#12 /home/walkntalk/WP/wp-includes/class-wp.php(399): do_action_ref_array()
+#13 /home/walkntalk/WP/wp-includes/class-wp.php(780): WP->parse_request()
+#14 /home/walkntalk/WP/wp-includes/functions.php(1334): WP->main()
+#15 /home/walkntalk/WP/wp-blog-header.php(16): wp()
+#16 /home/walkntalk/WP/index.php(17): require('...')
+#17 {main}
+  thrown(/home/walkntalk/WP/wp-includes/general-template.php, 줄 2281)
+

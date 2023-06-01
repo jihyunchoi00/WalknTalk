@@ -1,0 +1,52 @@
+2023-06-01T06:04:03+00:00 CRITICAL Uncaught Error: Attempt to assign property "add_checkout_fields" on null in /home/walkntalk/WP/wp-content/plugins/wp-members/includes/admin/tabs/class-wp-members-admin-tab-options.php:624
+Stack trace:
+#0 /home/walkntalk/WP/wp-content/plugins/wp-members/includes/admin/tabs/class-wp-members-admin-tab-options.php(592): WP_Members_Admin_Tab_Options::save_settings()
+#1 /home/walkntalk/WP/wp-content/plugins/wp-members/includes/admin/admin.php(96): WP_Members_Admin_Tab_Options::update()
+#2 /home/walkntalk/WP/wp-content/plugins/wp-members/includes/admin/admin.php(39): wpmem_admin_action()
+#3 /home/walkntalk/WP/wp-includes/class-wp-hook.php(308): wpmem_admin()
+#4 /home/walkntalk/WP/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#5 /home/walkntalk/WP/wp-includes/plugin.php(517): WP_Hook->do_action()
+#6 /home/walkntalk/WP/wp-admin/admin.php(259): do_action()
+#7 /home/walkntalk/WP/wp-admin/options-general.php(10): require_once('...')
+#8 {main}
+  thrown(/home/walkntalk/WP/wp-content/plugins/wp-members/includes/admin/tabs/class-wp-members-admin-tab-options.php, 줄 624)
+
+2023-06-01T06:09:41+00:00 CRITICAL Uncaught Error: Attempt to assign property "add_checkout_fields" on null in /home/walkntalk/WP/wp-content/plugins/wp-members/includes/admin/tabs/class-wp-members-admin-tab-options.php:624
+Stack trace:
+#0 /home/walkntalk/WP/wp-content/plugins/wp-members/includes/admin/tabs/class-wp-members-admin-tab-options.php(592): WP_Members_Admin_Tab_Options::save_settings()
+#1 /home/walkntalk/WP/wp-content/plugins/wp-members/includes/admin/admin.php(96): WP_Members_Admin_Tab_Options::update()
+#2 /home/walkntalk/WP/wp-content/plugins/wp-members/includes/admin/admin.php(39): wpmem_admin_action()
+#3 /home/walkntalk/WP/wp-includes/class-wp-hook.php(308): wpmem_admin()
+#4 /home/walkntalk/WP/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#5 /home/walkntalk/WP/wp-includes/plugin.php(517): WP_Hook->do_action()
+#6 /home/walkntalk/WP/wp-admin/admin.php(259): do_action()
+#7 /home/walkntalk/WP/wp-admin/options-general.php(10): require_once('...')
+#8 {main}
+  thrown(/home/walkntalk/WP/wp-content/plugins/wp-members/includes/admin/tabs/class-wp-members-admin-tab-options.php, 줄 624)
+
+2023-06-01T06:28:12+00:00 CRITICAL Uncaught Error: Attempt to assign property "add_checkout_fields" on null in /home/walkntalk/WP/wp-content/plugins/wp-members/includes/admin/tabs/class-wp-members-admin-tab-options.php:624
+Stack trace:
+#0 /home/walkntalk/WP/wp-content/plugins/wp-members/includes/admin/tabs/class-wp-members-admin-tab-options.php(592): WP_Members_Admin_Tab_Options::save_settings()
+#1 /home/walkntalk/WP/wp-content/plugins/wp-members/includes/admin/admin.php(96): WP_Members_Admin_Tab_Options::update()
+#2 /home/walkntalk/WP/wp-content/plugins/wp-members/includes/admin/admin.php(39): wpmem_admin_action()
+#3 /home/walkntalk/WP/wp-includes/class-wp-hook.php(308): wpmem_admin()
+#4 /home/walkntalk/WP/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#5 /home/walkntalk/WP/wp-includes/plugin.php(517): WP_Hook->do_action()
+#6 /home/walkntalk/WP/wp-admin/admin.php(259): do_action()
+#7 /home/walkntalk/WP/wp-admin/options-general.php(10): require_once('...')
+#8 {main}
+  thrown(/home/walkntalk/WP/wp-content/plugins/wp-members/includes/admin/tabs/class-wp-members-admin-tab-options.php, 줄 624)
+
+2023-06-01T08:50:01+00:00 CRITICAL Uncaught Error: Attempt to assign property "add_checkout_fields" on null in /home/walkntalk/WP/wp-content/plugins/wp-members/includes/admin/tabs/class-wp-members-admin-tab-options.php:624
+Stack trace:
+#0 /home/walkntalk/WP/wp-content/plugins/wp-members/includes/admin/tabs/class-wp-members-admin-tab-options.php(592): WP_Members_Admin_Tab_Options::save_settings()
+#1 /home/walkntalk/WP/wp-content/plugins/wp-members/includes/admin/admin.php(96): WP_Members_Admin_Tab_Options::update()
+#2 /home/walkntalk/WP/wp-content/plugins/wp-members/includes/admin/admin.php(39): wpmem_admin_action()
+#3 /home/walkntalk/WP/wp-includes/class-wp-hook.php(308): wpmem_admin()
+#4 /home/walkntalk/WP/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#5 /home/walkntalk/WP/wp-includes/plugin.php(517): WP_Hook->do_action()
+#6 /home/walkntalk/WP/wp-admin/admin.php(259): do_action()
+#7 /home/walkntalk/WP/wp-admin/options-general.php(10): require_once('...')
+#8 {main}
+  thrown(/home/walkntalk/WP/wp-content/plugins/wp-members/includes/admin/tabs/class-wp-members-admin-tab-options.php, 줄 624)
+
