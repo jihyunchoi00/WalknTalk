@@ -67,7 +67,7 @@
 > ##### + 스크롤하여 밑에 'About WalknTalk', 'Bom's Memory', 'Contact WalknTalk' 등을 볼 수 있음<br>
 <br>
 
-#### - LOGIN / SIGNUP
+#### - LOGIN / SIGNUP / LOGOUT
 > ##### + Home 메뉴 아래로 들어가게 설정함<br>
 <br>
 
@@ -145,14 +145,19 @@
 ## 5. 실행화면
 ### 1) HOME
 - **HOME 페이지** <br>
-![image](https://github.com/jihyunchoi00/WalknTalk/assets/130173123/43d7dc43-378a-4c4e-a63d-1a6e7b6943f8)
+![image](https://github.com/jihyunchoi00/WalknTalk/assets/130173123/5c92235e-dc3b-4430-9c76-0ece01b60861)
 <br>
 <br>
 <br>
 
-- **LOGIN / SIGNUP**
+- **LOGIN / SIGNUP / LOGOUT**
   + **LOGIN**
-  + **SIGNUP**<br>
+  ![image](https://github.com/jihyunchoi00/WalknTalk/assets/130173123/13e43605-fb7b-4527-9787-8cb801bd9114) <br><br><br>
+  + **SIGNUP** <br><br>
+  ![image](https://github.com/jihyunchoi00/WalknTalk/assets/130173123/84f029fe-8895-4a86-b922-dc4d7fc013eb) <br><br><br>
+  + **LOGOUT** <br><br>
+  ![image](https://github.com/jihyunchoi00/WalknTalk/assets/130173123/7221b460-ebbb-4af3-8a3f-7bf26375cfb9) <br><br><br>
+<br> 
 <br>
 <br>
 
@@ -222,21 +227,16 @@
 
 ### 7) COMMUNITY
 - **Community 페이지** <br>
-
-
-
-
-
-
-
-  
-  
-
-
-
+![image](https://github.com/jihyunchoi00/WalknTalk/assets/130173123/65d94db5-fdc4-4c55-bf12-9ed98d4d8c2d) <br><br><br>
+- **Community 상세페이지** <br>
+  + **글** <br><br>
+  ![image](https://github.com/jihyunchoi00/WalknTalk/assets/130173123/30bb7b8a-d343-4d86-b23d-63aa37af67c7) <br><br><br>
+  + **댓글** <br><br>
+  ![image](https://github.com/jihyunchoi00/WalknTalk/assets/130173123/4dda5f91-bddb-4868-ae91-d913ed220451) <br><br><br>
 <br>
 <br>
 <br>
+
 
 ## 6. 기대효과
 > #### 반려견의 산책은 반려견의 건강 관리를 위해 필수 루틴이다. 이 서비스는 산책 코스를 고민해야 하는 수고를 덜어주고, 원하는 산책 시간이나 강도에 따라 맞춤 코스를 선 택할 수 있도록 하여 선택의 폭을 넓혀준다. 산책 중간에 반려견의 미용을 위한 미용샵이나 사료 및 간식 구입, 반려견 동반 입장 가능 카페 등의 정보를 제공 받고 싶은 경우, 일일이 찾아볼 필요 없이 Map API를 통한 서비스를 제공하여 간편하게 한 번에 확인하고 이용할 수 있도록 한다.
